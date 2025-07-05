@@ -1,6 +1,6 @@
 {
   "name": "snapbuy",
-  "version": "2.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -13,11 +13,8 @@
     "react-dom": "latest",
     "axios": "latest",
     "@supabase/supabase-js": "latest",
-    "framer-motion": "latest"
-  },
-  "devDependencies": {
-    "typescript": "latest",
-    "@types/react": "latest",
-    "@types/node": "latest"
+    "tailwindcss": "^3.4.1",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16"
   }
 }
